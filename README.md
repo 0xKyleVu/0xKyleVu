@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Quan (Kyle) 👋
+### 🎓 Master of Data Science Grad @ Swinburne University
 
-<!--
-**0xKyleVu/0xKyleVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on Data Analytics and Engineering, finding insights in the numbers and building the pipelines to move data around.
 
-Here are some ideas to get you started:
+Currently, I'm bridging the gap between raw on-chain data and business insights. This profile is where I'll be uploading my ETL projects, Python scripts, and SQL experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+* SQL, Python, R
+* Tableau, PowerBI for Data Visualization
+* Learning DBT, Docker, and Airflow
+* Dune Analytics for Side Projects
+
+---
+
+### A Bit About Me
+* 🐈 I love cats
+* ☕ Definitely a coffee guy
+* 🪙 Into crypto/blockchain
+* 🏠 I hope to build projects that are useful, simple, and easy to understand
